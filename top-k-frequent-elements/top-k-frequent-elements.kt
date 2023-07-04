@@ -19,7 +19,6 @@ class Solution {
         }
 
         //retunr the list
-
         return resultList
 
     }
