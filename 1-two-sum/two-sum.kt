@@ -1,6 +1,6 @@
 class Solution {
     fun twoSum(nums: IntArray, target: Int): IntArray {
-
+        
    //created a map of int,int to store the deficit and the index
     val mapOfDeficit = mutableMapOf<Int, Int>()
 
@@ -17,6 +17,5 @@ class Solution {
     }
 
     return intArrayOf()
-        
     }
 }
